@@ -17,7 +17,7 @@
     "react-autobind": "^1.0.6",
     "react-dom": "^16.8.6",
     "react-html-attributes": "^1.4.3",
-    "react-native": "^0.59.2",
+    "react-native": "^0.62.3",
     "react-router": "^5.0.0",
     "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.8",
